@@ -32,6 +32,7 @@ has profoundly transformed my life and broadened my perspective.
 <img align='left' width='30px' style='padding-right:10px;' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
 <img align='left' width='30px' style='padding-right:10px;' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
 <img align='left' width='30px' style='padding-right:10px;' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" />
+<br />
 
 ### Databases
 
@@ -47,6 +48,8 @@ has profoundly transformed my life and broadened my perspective.
 <img align='left' width='30px' style='padding-right:10px;' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align='left' width='30px' style='padding-right:10px;' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" />
 <img align='left' width='30px' style='padding-right:10px;' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
+
+<br />
 
 <br />
 
